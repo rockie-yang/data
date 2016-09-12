@@ -21,6 +21,9 @@ Ambari-branch-2.5/4
 Ambari-branch-2.5/3
 Ambari-branch-2.5/2
 Ambari-branch-2.5/1
+flink-github-ci/470
+flink-github-ci/469
+flink-github-ci/468
 flink-github-ci/467
 flink-github-ci/466
 flink-github-ci/465
@@ -405,8 +408,6 @@ flink-github-ci/87
 flink-github-ci/86
 flink-github-ci/85
 flink-github-ci/84
-flink-github-ci/83
-flink-github-ci/82
 Flume-trunk-hbase-1/204
 Flume-trunk-hbase-1/203
 Flume-trunk-hbase-1/202
@@ -437,6 +438,8 @@ Flume-trunk-hbase-1/178
 Flume-trunk-hbase-1/177
 Flume-trunk-hbase-1/176
 Flume-trunk-hbase-1/175
+Hadoop-trunk-Commit/10424
+Hadoop-trunk-Commit/10423
 Hadoop-trunk-Commit/10422
 Hadoop-trunk-Commit/10421
 Hadoop-trunk-Commit/10420
@@ -693,16 +696,8 @@ Hadoop-trunk-Commit/10170
 Hadoop-trunk-Commit/10169
 Hadoop-trunk-Commit/10168
 Hadoop-trunk-Commit/10167
-Hadoop-trunk-Commit/10166
-Hadoop-trunk-Commit/10165
-Hadoop-trunk-Commit/10164
-Hadoop-trunk-Commit/10163
-Hadoop-trunk-Commit/10162
-Hadoop-trunk-Commit/10161
-Hadoop-trunk-Commit/10160
-Hadoop-trunk-Commit/10159
-Hadoop-trunk-Commit/10158
-Hadoop-trunk-Commit/10157
+kafka-trunk-jdk8/876
+kafka-trunk-jdk8/875
 kafka-trunk-jdk8/874
 kafka-trunk-jdk8/873
 kafka-trunk-jdk8/872
@@ -713,10 +708,8 @@ kafka-trunk-jdk8/868
 kafka-trunk-jdk8/867
 kafka-trunk-jdk8/866
 kafka-trunk-jdk8/865
-kafka-trunk-jdk8/864
-kafka-trunk-jdk8/863
-kafka-trunk-jdk8/862
-kafka-trunk-jdk8/861
+Lucene-Solr-Tests-master/1389
+Lucene-Solr-Tests-master/1388
 Lucene-Solr-Tests-master/1387
 Lucene-Solr-Tests-master/1386
 Lucene-Solr-Tests-master/1385
@@ -1738,6 +1731,7 @@ Sqoop2/1044
 Sqoop2/1043
 Sqoop2/1042
 Sqoop2/1041
+ZooKeeper-trunk/3075
 ZooKeeper-trunk/3074
 ZooKeeper-trunk/3073
 ZooKeeper-trunk/3072
@@ -1800,9 +1794,3 @@ ZooKeeper-trunk/3016
 ZooKeeper-trunk/3015
 ZooKeeper-trunk/3014
 ZooKeeper-trunk/3013
-ZooKeeper-trunk/3012
-ZooKeeper-trunk/3011
-ZooKeeper-trunk/3010
-flink-github-ci/468
-Hadoop-trunk-Commit/10423
-Lucene-Solr-Tests-master/1388
